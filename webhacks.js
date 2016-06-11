@@ -1,6 +1,6 @@
 /*
  * TASK: Create a simple highlevel data model for a cascading menu bar
- * INPUT: List of menu id and mappings of id to it's parent menu
+ * INPUT: List of menu id and mappings of id to its parent menu
  * OUTPUT: List of top level nodes and list of all the nodes with their children ids mapped
  * Using ES6 syntax
 */
